@@ -1,7 +1,3 @@
-### Hi there 👋
+I'm JD, and I'm supposed to type some kind of bio thing here, but I don't really know what to say
 
-#### My Name is JD Peppelman
-
-I'm a self-taught CS student, with a love for the web (https://thepotato10.github.io)
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+Crab soup is good
