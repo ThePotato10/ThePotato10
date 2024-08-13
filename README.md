@@ -1,3 +1,3 @@
 **JD Peppelman**
 
-[https://slowroads.io](https://slowroads.io)
+[Currently wasting time](https://slowroads.io)
