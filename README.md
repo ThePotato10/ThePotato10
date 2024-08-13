@@ -1,3 +1,3 @@
-I'm JD, and I'm supposed to type some kind of bio thing here, but I don't really know what to say
+# JD Peppelman
 
-Crab soup is good
+[https://slowroads.io](https://slowroads.io)
