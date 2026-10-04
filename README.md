@@ -1,6 +1,6 @@
 **JD Peppelman**
 
-<img src="IMG_0538.jpg" height="200" alt="Michigan Stadium"/>
+<img src="IMG_0538.jpg" width="100%" height="200" alt="Michigan Stadium" style="object-fit: cover;"/>
 
 Applied math, concentrating in discrete and algorithmic methods @ the University of Michigan
 
